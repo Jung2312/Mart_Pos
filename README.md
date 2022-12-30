@@ -4,9 +4,12 @@
 
 32비트 엑세스(AccessDatabaseEngine.exe)를 설치해야함.
 
-
+## <-- 중요 기능 -->
 ##### 메인
 ![image](https://user-images.githubusercontent.com/97083703/210071157-2108616f-2208-4f34-9765-264e1a7aeea3.png)
+
+##### 영수증 출력
+![image](https://user-images.githubusercontent.com/97083703/210071435-5a57f6da-f67b-434f-b38f-3289278fcc9c.png)
 
 ##### 판매 현황
 ![image](https://user-images.githubusercontent.com/97083703/210071184-c08fb41e-66da-4c74-bf1c-398ee79ac9ab.png)
@@ -23,6 +26,4 @@
 ##### 상품 삭제
 ![image](https://user-images.githubusercontent.com/97083703/210071354-a71043ee-0297-4d1b-854b-7246f027f2b6.png)
 
-##### 영수증 출력
-![image](https://user-images.githubusercontent.com/97083703/210071435-5a57f6da-f67b-434f-b38f-3289278fcc9c.png)
 
