@@ -1,0 +1,289 @@
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\bin\Debug\mart_pos.exe.config
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\bin\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\bin\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.Form1.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\mart_pos\mart_pos\obj\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.sales_table.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.product_registration.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.product_select.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.product_table.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.user_registration.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.user_table.resources
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\MySql.Data.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Buffers.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Memory.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\ZstdNet.dll
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\MySql.Data.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Buffers.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Memory.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+C:\Users\alswj\OneDrive\바탕 화면\2-2\비주얼 프로그래밍\Mart_pos\mart_pos\obj\Debug\mart_pos.product_del.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.Form1.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.product_del.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.product_registration.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.product_select.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.product_table.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.sales_table.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.user_registration.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.user_table.resources
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.exe
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.pdb
+F:\mart_pos\mart_pos\bin\Debug\mart_pos.exe.config
+F:\mart_pos\mart_pos\bin\Debug\mart_pos.exe
+F:\mart_pos\mart_pos\bin\Debug\mart_pos.pdb
+F:\mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+F:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.dll
+F:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+F:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+F:\mart_pos\mart_pos\bin\Debug\System.Buffers.dll
+F:\mart_pos\mart_pos\bin\Debug\System.Memory.dll
+F:\mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+F:\mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\mart_pos\mart_pos\bin\Debug\ZstdNet.dll
+F:\mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+F:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.pdb
+F:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.xml
+F:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+F:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+F:\mart_pos\mart_pos\bin\Debug\System.Buffers.xml
+F:\mart_pos\mart_pos\bin\Debug\System.Memory.xml
+F:\mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+F:\mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+D:\mart_pos\mart_pos\bin\Debug\mart_pos.exe.config
+D:\mart_pos\mart_pos\bin\Debug\mart_pos.exe
+D:\mart_pos\mart_pos\bin\Debug\mart_pos.pdb
+D:\mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+D:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.dll
+D:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+D:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+D:\mart_pos\mart_pos\bin\Debug\System.Buffers.dll
+D:\mart_pos\mart_pos\bin\Debug\System.Memory.dll
+D:\mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+D:\mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\mart_pos\mart_pos\bin\Debug\ZstdNet.dll
+D:\mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+D:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.pdb
+D:\mart_pos\mart_pos\bin\Debug\Google.Protobuf.xml
+D:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+D:\mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+D:\mart_pos\mart_pos\bin\Debug\System.Buffers.xml
+D:\mart_pos\mart_pos\bin\Debug\System.Memory.xml
+D:\mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+D:\mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.Form1.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.product_del.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.product_registration.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.product_select.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.product_table.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.sales_table.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.user_registration.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.user_table.resources
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.exe
+D:\mart_pos\mart_pos\obj\Debug\mart_pos.pdb
+D:\mart_pos\mart_pos\bin\Debug\Resources\NANUMGOTHICECO.TTF
+D:\mart_pos\mart_pos\bin\Debug\Resources\NANUMGOTHICECOEXTRABOLD.TTF
+D:\mart_pos\mart_pos\bin\Debug\Resources\NANUMMYEONGJOECOBOLD.TTF
+D:\mart_pos\mart_pos\bin\Debug\NANUMMYEONGJOECO.TTF
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\NANUMMYEONGJOECO.TTF
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\mart_pos.exe.config
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Buffers.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Memory.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\ZstdNet.dll
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Buffers.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Memory.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.Form1.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.product_del.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.product_registration.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.product_select.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.product_table.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.sales_table.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.user_registration.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.user_table.resources
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\Mart_pos\mart_pos\obj\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\NANUMMYEONGJOECO.TTF
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\mart_pos.exe.config
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Buffers.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Memory.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\ZstdNet.dll
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Buffers.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Memory.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.Form1.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.product_del.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.product_registration.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.product_select.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.product_table.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.sales_table.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.user_registration.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.user_table.resources
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\martpos\mart_pos\obj\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\NANUMMYEONGJOECO.TTF
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.exe.config
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.pdb
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Buffers.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Memory.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\ZstdNet.dll
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Buffers.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Memory.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Form1.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_del.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_registration.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_select.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_table.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.sales_table.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.user_registration.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.user_table.resources
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.exe
+C:\Users\alswj\OneDrive\문서\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.pdb
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.AssemblyReference.cache
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.exe
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.pdb
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\NANUMMYEONGJOECO.TTF
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.exe.config
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.exe
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\mart_pos.pdb
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Buffers.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Memory.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\ZstdNet.dll
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.pdb
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\Google.Protobuf.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Buffers.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Memory.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Balance_Inquiry.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Form1.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_del.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_registration.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_select.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.product_table.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.Properties.Resources.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.sales_table.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.user_registration.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.user_table.resources
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.GenerateResource.cache
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.CoreCompileInputs.cache
+C:\Users\alswj\Downloads\비주얼최종_20212856진민정\비주얼최종_20212856진민정\mart_pos\obj\Debug\mart_pos.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mart_pos", "mart_pos\mart_pos.csproj", "{BED5DAFB-1185-4076-846D-FD0463B775FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED5DAFB-1185-4076-846D-FD0463B775FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED5DAFB-1185-4076-846D-FD0463B775FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED5DAFB-1185-4076-846D-FD0463B775FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED5DAFB-1185-4076-846D-FD0463B775FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6153C68F-52F7-4670-8721-819765B6D212}
+	EndGlobalSection
+EndGlobal
