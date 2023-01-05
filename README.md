@@ -11,8 +11,8 @@
 + Visual Studio 2022
 
 
-## <-- 주요 기능 -->
-##### 메인
+## 주요 기능
+##### + 메인
 ![image](https://user-images.githubusercontent.com/97083703/210071157-2108616f-2208-4f34-9765-264e1a7aeea3.png)
 
 ##### 영수증 출력
